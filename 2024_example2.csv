@@ -1,0 +1,169 @@
+﻿Country,GDP,TEMP,PRECIP,MORTALITY,REGIME_1,REGIME_2
+Burkina Faso,787,28.29,748,7.5,non-democracy,Authoritarian regime
+Mali,887,28.25,282,8.3,democracy,Flawed democracy
+Djibouti,3252,28,220,7.08,non-democracy,Authoritarian regime
+Tuvalu,4036,28,3200,7.9,non-democracy,Authoritarian regime
+Senegal,1452,27.85,686,5,non-democracy,Hybrid regime
+Mauritania,1678,27.65,92,7.33,democracy,Flawed democracy
+Maldives,10626,27.65,1972,4.2,democracy,Flawed democracy
+Benin,1220,27.55,1039,7.82,non-democracy,Authoritarian regime
+Ghana,2203,27.2,1187,5.99,democracy,Full democracy
+Bahrain,23504,27.15,83,2.83,non-democracy,Authoritarian regime
+Niger,555,27.15,151,9.66,democracy,Flawed democracy
+Qatar,64782,27.15,74,1.42,non-democracy,Hybrid regime
+Seychelles,17382,27.15,2330,6.9,non-democracy,Authoritarian regime
+Togo,899,27.15,1168,5.16,non-democracy,Authoritarian regime
+Somalia,105,27.05,282,11.43,non-democracy,Authoritarian regime
+United Arab Emirates,43103,27,78,1.62,non-democracy,Authoritarian regime
+Sri Lanka,3940,26.95,1712,6.54,non-democracy,Authoritarian regime
+Sudan,815,26.9,250,6.19,non-democracy,Authoritarian regime
+Brunei,31086,26.85,2722,3.85,non-democracy,Authoritarian regime
+Cambodia,1644,26.8,1904,5.7,non-democracy,Authoritarian regime
+Nigeria,2361,26.8,1150,8.52,democracy,Flawed democracy
+Saint Vincent and the Grenadines,7464,26.8,1583,7.58,non-democracy,Hybrid regime
+Guinea-Bissau,688,26.75,1577,7.32,democracy,Full democracy
+Samoa,4285,26.7,2880,5.38,non-democracy,Hybrid regime
+Chad,707,26.55,322,9.21,non-democracy,Authoritarian regime
+Singapore,64103,26.45,2497,4.15,non-democracy,Authoritarian regime
+Thailand,7785,26.3,1622,7.86,non-democracy,Authoritarian regime
+Sierra Leone,528,26.05,2526,9.14,non-democracy,Authoritarian regime
+Antigua and Barbuda,17113,26,1030,5.69,non-democracy,Authoritarian regime
+Barbados,18149,26,1422,8.03,non-democracy,Authoritarian regime
+Guyana,6610,26,2387,6.95,democracy,Full democracy
+Indonesia,4136,25.85,2702,6.77,democracy,Flawed democracy
+Philippines,3324,25.85,2348,6.32,non-democracy,Hybrid regime
+Trinidad and Tobago,16637,25.75,2200,8.48,non-democracy,Authoritarian regime
+Guinea,967,25.7,1651,7.97,democracy,Full democracy
+Suriname,6360,25.7,2331,6.63,non-democracy,Authoritarian regime
+Solomon Islands,1945,25.65,3028,3.95,non-democracy,Authoritarian regime
+Oman,15343,25.6,125,3.21,democracy,Flawed democracy
+Comoros,1370,25.55,900,6.49,non-democracy,Authoritarian regime
+Eritrea,567,25.5,384,6.6,non-democracy,Authoritarian regime
+Saint Lucia,11611,25.5,2301,8.17,non-democracy,Hybrid regime
+Malaysia,11414,25.4,2875,5.72,democracy,Flawed democracy
+Panama,15728,25.4,2928,5.88,democracy,Flawed democracy
+Belize,4884,25.3,1705,3.89,non-democracy,Authoritarian regime
+Kuwait,31999,25.35,121,2.27,democracy,Flawed democracy
+Venezuela,4733,25.35,2044,6.55,non-democracy,Authoritarian regime
+Liberia,523,25.3,2391,6.46,democracy,Flawed democracy
+Papua New Guinea,2845,25.25,3142,5.48,democracy,Flawed democracy
+Cuba,9296,25.2,1335,9.37,non-democracy,Authoritarian regime
+Gabon,7773,25.05,1831,5.59,democracy,Full democracy
+Bangladesh,1846,25,2666,5.5,non-democracy,Authoritarian regime
+Brazil,8755,24.95,1761,6.9,non-democracy,Authoritarian regime
+Jamaica,5369,24.95,2051,7.44,democracy,Flawed democracy
+Central African Republic,468,24.9,1343,11.51,non-democracy,Authoritarian regime
+Haiti,715,24.9,1440,7.17,democracy,Full democracy
+Vietnam,2715,24.45,1821,5.77,non-democracy,Authoritarian regime
+Nicaragua,1913,24.9,2280,5.19,democracy,Flawed democracy
+Costa Rica,12238,24.8,2926,4.97,non-democracy,Authoritarian regime
+Kenya,1817,24.75,630,4.95,democracy,Flawed democracy
+Saudi Arabia,23140,24.65,59,3.45,non-democracy,Hybrid regime
+Cameroon,1534,24.6,1604,7.54,non-democracy,Authoritarian regime
+Dominican Republic,8282,24.55,1410,6.31,non-democracy,Authoritarian regime
+Equatorial Guinea,8130,24.55,2156,8.9,non-democracy,Authoritarian regime
+Colombia,6432,24.5,3240,7.84,non-democracy,Authoritarian regime
+Saint Kitts and Nevis,19896,24.5,1427,7.32,non-democracy,Hybrid regime
+El Salvador,4187,24.45,1784,5.92,non-democracy,Authoritarian regime
+Fiji,6185,24.4,2592,6.44,non-democracy,Authoritarian regime
+Vanuatu,3023,23.95,2000,3.99,non-democracy,Authoritarian regime
+Yemen,855,23.85,167,5.54,non-democracy,Authoritarian regime
+Mozambique,504,23.8,1032,9.93,democracy,Flawed democracy
+São Tomé and Príncipe,1961,23.75,3200,6.07,non-democracy,Hybrid regime
+India,2116,23.65,1083,9.65,democracy,Flawed democracy
+Paraguay,5406,23.55,1130,4.9,non-democracy,Hybrid regime
+Honduras,2575,23.5,1976,4.69,democracy,Full democracy
+Guatemala,4363,23.45,1996,4.89,democracy,Full democracy
+Cape Verde,3604,23.3,228,5.77,non-democracy,Authoritarian regime
+Laos,2625,22.8,1834,6.26,democracy,Flawed democracy
+Uganda,737,22.8,1180,4.87,non-democracy,Authoritarian regime
+Madagascar,523,22.65,1513,5.92,democracy,Flawed democracy
+Mauritius,11169,22.4,2041,8.95,democracy,Flawed democracy
+Dominica,8111,22.35,2083,8.12,non-democracy,Authoritarian regime
+Tanzania,1084,22.35,1071,5.02,non-democracy,Authoritarian regime
+Ethiopia,828,22.2,848,5.6,non-democracy,Authoritarian regime
+Egypt,3161,22.1,18,4.32,non-democracy,Authoritarian regime
+Malawi,435,21.9,1181,4.51,democracy,Flawed democracy
+Ecuador,6184,21.85,2274,5.18,non-democracy,Authoritarian regime
+Libya,4810,21.8,56,3.45,democracy,Flawed democracy
+Australia,54763,21.65,534,6.76,non-democracy,Authoritarian regime
+Angola,2671,21.55,1010,7.8,non-democracy,Authoritarian regime
+Bolivia,3552,21.55,1146,4.33,non-democracy,Authoritarian regime
+Botswana,7961,21.5,416,8.98,non-democracy,Authoritarian regime
+Iraq,5730,21.4,216,3.88,democracy,Flawed democracy
+Eswatini,4002,21.4,788,9.53,non-democracy,Authoritarian regime
+Zambia,1292,21.4,1020,6.02,non-democracy,Authoritarian regime
+Mexico,9849,21,758,7.07,democracy,Flawed democracy
+Zimbabwe,1464,21,657,8.51,non-democracy,Authoritarian regime
+Pakistan,1187,21,494,5.94,democracy,Flawed democracy
+Namibia,4957,20.95,285,6.64,democracy,Flawed democracy
+Burundi,260,20.8,1274,5.85,non-democracy,Authoritarian regime
+Peru,6978,20.6,1738,11.04,non-democracy,Hybrid regime
+Israel,46376,20.2,435,5.05,democracy,Flawed democracy
+Malta,33752,20.2,560,8.61,democracy,Flawed democracy
+Cyprus,28285,19.45,498,6.99,non-democracy,Authoritarian regime
+Jordan,4405,19.3,111,3.47,democracy,Flawed democracy
+Rwanda,820,18.85,1212,5.77,non-democracy,Hybrid regime
+Algeria,3976,18.79,89,4.33,non-democracy,Authoritarian regime
+South Africa,6001,18.75,495,9.25,non-democracy,Authoritarian regime
+Syria,1194,18.75,252,4.07,non-democracy,Authoritarian regime
+Uruguay,16190,18.55,1300,9.12,non-democracy,Authoritarian regime
+Iran,7282,18.25,228,5.2,democracy,Flawed democracy
+Morocco,3282,18.1,346,6.61,democracy,Flawed democracy
+Lebanon,7784,17.4,661,5.57,democracy,Flawed democracy
+Tunisia,3318,16.3,207,6.38,non-democracy,Authoritarian regime
+Portugal,23350,15.15,854,10.9,non-democracy,Hybrid regime
+Turkmenistan,8124,15.1,161,5.96,non-democracy,Authoritarian regime
+Argentina,10041,14.8,591,7.28,non-democracy,Authoritarian regime
+Greece,19604,14.44,652,12.02,democracy,Full democracy
+Italy,33090,13.45,832,11.27,democracy,Flawed democracy
+Spain,29816,13.3,636,10.11,non-democracy,Authoritarian regime
+Myanmar,1421,13.05,2091,7.14,democracy,Flawed democracy
+Afghanistan,470,12.6,327,12.08,non-democracy,Authoritarian regime
+Uzbekistan,1756,12.05,206,5.43,non-democracy,Authoritarian regime
+Azerbaijan,4782,11.95,447,6.92,non-democracy,Authoritarian regime
+Lesotho,1158,11.85,788,10.9,democracy,Flawed democracy
+"Korea, South",32143,11.5,1274,7.28,democracy,Flawed democracy
+Albania,5303,11.4,1485,7.36,non-democracy,Authoritarian regime
+Japan,40063,11.15,1668,11.74,democracy,Flawed democracy
+Croatia,14627,10.9,1113,12.98,non-democracy,Authoritarian regime
+France,40319,10.7,867,9.51,democracy,Full democracy
+Bulgaria,9703,10.55,608,14.31,non-democracy,Authoritarian regime
+New Zealand,43264,10.55,1732,6.89,democracy,Flawed democracy
+Turkey,9127,9.9,593,6.09,non-democracy,Authoritarian regime
+Bosnia and Herzegovina,6109,9.85,1028,10.26,non-democracy,Authoritarian regime
+Hungary,16879,9.75,589,12.89,democracy,Full democracy
+Belgium,46198,9.55,847,9.57,non-democracy,Authoritarian regime
+Moldova,2957,9.45,450,12.51,democracy,Flawed democracy
+Ireland,81637,9.3,1118,6.74,democracy,Flawed democracy
+Netherlands,53053,9.25,778,9.27,democracy,Flawed democracy
+Slovenia,26062,8.9,1162,10.46,non-democracy,Authoritarian regime
+Romania,12914,8.8,637,14.92,non-democracy,Hybrid regime
+Luxembourg,115481,8.65,934,7.17,democracy,Flawed democracy
+United States,65134,8.55,715,8.42,non-democracy,Authoritarian regime
+Germany,46232,8.5,700,11.97,democracy,Full democracy
+Chile,14896,8.45,1522,6.58,non-democracy,Authoritarian regime
+United Kingdom,41855,8.45,1220,9.12,non-democracy,Authoritarian regime
+Ukraine,3496,8.3,565,13.7,non-democracy,Authoritarian regime
+Nepal,1074,8.1,1500,5.59,democracy,Flawed democracy
+Poland,15727,7.85,600,9.37,non-democracy,Hybrid regime
+Czech Republic,23452,7.55,677,10.77,non-democracy,Authoritarian regime
+Bhutan,3361,7.4,2200,6.05,non-democracy,Authoritarian regime
+Armenia,4623,7.15,562,9.54,non-democracy,Authoritarian regime
+China,10004,6.95,645,7.82,non-democracy,Authoritarian regime
+Slovakia,19256,6.8,824,10.18,non-democracy,Authoritarian regime
+Kazakhstan,9793,6.4,250,8.05,non-democracy,Authoritarian regime
+Austria,49701,6.35,1110,9.86,non-democracy,Authoritarian regime
+Belarus,6674,6.15,618,12.81,non-democracy,Authoritarian regime
+Lithuania,19795,6.2,656,15.17,democracy,Flawed democracy
+Georgia,4439,5.8,1026,10.76,democracy,Full democracy
+Latvia,17885,5.6,667,14.69,democracy,Flawed democracy
+Switzerland,85135,5.5,1537,8.37,non-democracy,Authoritarian regime
+Estonia,23740,5.1,626,13.13,non-democracy,Authoritarian regime
+Denmark,60657,2.7,703,9.55,non-democracy,Authoritarian regime
+Sweden,52896,2.1,624,9.5,non-democracy,Authoritarian regime
+Tajikistan,894,2,691,5.67,non-democracy,Authoritarian regime
+Iceland,71345,1.75,1940,6.57,democracy,Full democracy
+Finland,48678,1.7,536,10.37,democracy,Full democracy
+Kyrgyzstan,1318,1.55,533,6.07,democracy,Flawed democracy
+Norway,74986,1.5,1414,7.93,democracy,Flawed democracy
